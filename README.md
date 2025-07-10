@@ -1,32 +1,32 @@
-# 👋 Hola, soy Facundo Kisielus
+# 👋 Hi, I'm Facundo Kisielus
 
-🎓 Estudiante de Ciencias de la Computación | 💻 Ingeniero de Software, con experiencia en Desarrollo Web y Machine Learning
+🎓 Computer Science student | 💻 Software Engineer with experience in Web Development and Machine Learning
 
 📍 Buenos Aires, Argentina  
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un apasionado por la tecnología, la programación y la construcción de soluciones que tengan impacto. Me gusta trabajar en proyectos personales donde pueda aprender algo nuevo y aplicar lo que estudio día a día.
+I'm passionate about technology, programming, and building solutions that make an impact. I enjoy working on personal projects where I can learn something new and apply what I study every day.
 
-Actualmente estoy enfocado en:
+Currently focused on:
 
-- 🔨 Desarrollo web (HTML, CSS, JavaScript, Django, React, SQL)
-- 🤖 Inteligencia artificial con Python (TensorFlow)
-- 🛠️ Proyectos prácticos con bases de datos, SQL, y lógica algorítmica
-
----
-
-## 📂 Proyectos destacados
-
-🔗 **[E-commerce con Django y pasarela de pagos](https://github.com/facuxrv/worldbuy-auction-platform)**  
-Desarrollé un sistema de subastas completo con autenticación, gestión de productos, pujas en tiempo real y comentarios.  
-Tecnologías: Django, SQL, HTML, CSS, Bootstrap
+- 🔨 Web development (HTML, CSS, JavaScript, Django, React, SQL)
+- 🤖 Artificial Intelligence with Python (TensorFlow)
+- 🛠️ Hands-on projects involving databases, SQL, and algorithmic logic
 
 ---
 
-## 🧰 Tecnologías que uso
+## 📂 Featured Projects
+
+🔗 **[E-commerce with Django and Payment Integration](https://github.com/facuxrv/worldbuy-auction-platform)**  
+I built a full auction system with user authentication, product management, real-time bidding, and comments.  
+Technologies: Django, SQL, HTML, CSS, Bootstrap
+
+---
+
+## 🧰 Technologies I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -37,11 +37,12 @@ Tecnologías: Django, SQL, HTML, CSS, Bootstrap
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - ✉️ facundokisielus@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/facundo-kisielus-39819a228/)  
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar o aprender algo nuevo!
+⭐ Thanks for visiting my profile! I'm always open to collaborating or learning something new.
+
