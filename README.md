@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Facundo Kisielus
 
-🎓 Computer Science student | 💻 Software Engineer with experience in Full-Stack Web Development and Machine Learning
+🎓 Computer Science student | 💻 Software Engineer with experience in Full-Stack Web Development, AI & Data Processing
 
 📍 Buenos Aires, Argentina  
 
@@ -12,8 +12,8 @@ I'm passionate about technology, programming, and building solutions that make a
 
 Currently focused on:
 
-- 🔨 Web development (HTML, CSS, JavaScript, Django, React, SQL)
-- 🤖 Artificial Intelligence with Python (TensorFlow)
+- 🔨 Web development (HTML, CSS, JavaScript, Django, React)
+- 🤖 Artificial Intelligence and Data Processing with Python (TensorFlow, NumPy, MatPlotLib, Pandas)
 - 🛠️ Hands-on projects involving databases, SQL, and algorithmic logic
 
 ---
