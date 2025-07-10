@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Facundo Kisielus
 
-🎓 Computer Science student | 💻 Software Engineer with experience in Web Development and Machine Learning
+🎓 Computer Science student | 💻 Software Engineer with experience in Full-Stack Web Development and Machine Learning
 
 📍 Buenos Aires, Argentina  
 
