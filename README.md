@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Facundo Kisielus
 
-🎓 Computer Science student | 💻 Software Engineer with experience in Full-Stack Web Development, AI & Data Processing
+🎓 Computer Science student at University of Buenos Aires | 💻 Software Engineer with experience in Full-Stack Web Development, AI & Data Processing
 
 📍 Buenos Aires, Argentina  
 
