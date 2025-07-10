@@ -1,6 +1,7 @@
 # 👋 Hola, soy Facundo Kisielus
 
 🎓 Estudiante de Ciencias de la Computación | 💻 Ingeniero de Software, con experiencia en Desarrollo Web y Machine Learning
+
 📍 Buenos Aires, Argentina  
 
 ---
