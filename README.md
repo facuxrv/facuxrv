@@ -18,7 +18,7 @@ Currently focused on:
 
 ---
 
-## 📂 Featured Projects
+## 📂 My favorite Projects
 
 🔗 **[E-commerce with Django and Payment Integration](https://github.com/facuxrv/worldbuy-auction-platform)**  
 I built a full auction system with user authentication, product management, real-time bidding, and comments.  
