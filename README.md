@@ -24,6 +24,10 @@ Currently focused on:
 I built a full auction system with user authentication, product management, real-time bidding, and comments.  
 Technologies: Django, SQL, HTML, CSS, Bootstrap
 
+🔗 **[Shopping Predictor](https://github.com/facuxrv/shopping-ml-prediction)**  
+A machine learning project that predicts whether online shopping users will complete a purchase based on their browsing behavior. This project uses a K-Nearest Neighbors classifier to analyze user session data and predict purchasing intent.
+Technologies: Python, Sci-kit learn, Pandas
+
 ---
 
 ## 🧰 Technologies I Use
