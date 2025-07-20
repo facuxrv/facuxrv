@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Facundo Kisielus
 
-🎓 Computer Science student at University of Buenos Aires | 💻 Software Engineer with experience in Full-Stack Web Development, AI & Data Processing
+🎓 Computer Science student at University of Buenos Aires | 💻 Software Engineer with experience in Full-Stack Web Development & AI 
 
 📍 Buenos Aires, Argentina  
 
@@ -13,7 +13,7 @@ I'm passionate about technology, programming, and building solutions that make a
 Currently focused on:
 
 - 🔨 Web development (HTML, CSS, JavaScript, Django, React)
-- 🤖 Artificial Intelligence and Data Processing with Python (TensorFlow, NumPy, MatPlotLib, Pandas)
+- 🤖 Artificial Intelligence with Python (TensorFlow, NumPy, MatPlotLib, Pandas)
 - 🛠️ Hands-on projects involving databases, SQL, and algorithmic logic
 
 ---
@@ -23,10 +23,6 @@ Currently focused on:
 🔗 **[E-commerce with Django and Payment Integration](https://github.com/facuxrv/worldbuy-auction-platform)**  
 I built a full auction system with user authentication, product management, real-time bidding, and comments.  
 Technologies: Django, SQL, HTML, CSS, Bootstrap
-
-🔗 **[Shopping Predictor](https://github.com/facuxrv/shopping-ml-prediction)**  
-A machine learning project that predicts whether online shopping users will complete a purchase based on their browsing behavior. This project uses a K-Nearest Neighbors classifier to analyze user session data and predict purchasing intent.
-Technologies: Python, Sci-kit learn, Pandas
 
 ---
 
