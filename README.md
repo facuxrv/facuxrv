@@ -13,7 +13,7 @@ I'm passionate about technology, programming, and building solutions that make a
 Currently focused on:
 
 - 🔨 Web development (HTML, CSS, JavaScript, Django, React)
-- 🤖 Artificial Intelligence with Python (TensorFlow, NumPy, MatPlotLib, Pandas)
+- 🤖 Artificial Intelligence with Python (TensorFlow, NumPy, MatPlotLib, Pandas, NLTK)
 - 🛠️ Hands-on projects involving databases, SQL, and algorithmic logic
 
 ---
@@ -23,6 +23,14 @@ Currently focused on:
 🔗 **[E-commerce with Django and Payment Integration](https://github.com/facuxrv/worldbuy-auction-platform)**  
 I built a full auction system with user authentication, product management, real-time bidding, and comments.  
 Technologies: Django, SQL, HTML, CSS, Bootstrap
+
+🔗 **[BERT Attention Visualizer](https://github.com/facukis/attention-bert)**  
+BERT Attention Visualizer that makes transformer model behavior transparent and interpretable
+Technologies: TensorFlow & tf-keras for deep learning • Hugging Face Transformers (BERT base model) • PIL for advanced image processing and visualization • Custom attention extraction algorithms
+
+🔗 **[Shopping ML Prediction](https://github.com/facukis/shopping-ml-prediction)**  
+Machine Learning project that predicts online shopping purchase behavior using K-Nearest Neighbors 
+Technologies: scikit-learn, pandas
 
 ---
 
