@@ -33,7 +33,6 @@ Machine Learning project that predicts online shopping purchase behavior using K
 Technologies: scikit-learn, pandas
 
 ---
-
 ## 🧰 Technologies I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,6 +47,7 @@ Technologies: scikit-learn, pandas
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=flat&logo=langchain&logoColor=white)
 
 ---
 
