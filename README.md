@@ -12,7 +12,7 @@ I'm passionate about technology, programming, and building solutions that make a
 
 Currently focused on:
 
-- 🔨 Web development (MERN Stack, Django, Next.js
+- 🔨 Web development (MERN Stack, Django, Next.js, TypeScript, SQL)
 - 🤖 Artificial Intelligence (AI Agents, Machine Learning, NLP)
 
 ---
@@ -31,7 +31,7 @@ Currently focused on:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
