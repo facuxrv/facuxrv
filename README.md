@@ -37,7 +37,7 @@ Currently focused on:
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-3C873A?style=flat&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-### 🤖 Artificial Intelligence & Data Science
+### 🤖 Artificial Intelligence, Agents & Data Science
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
