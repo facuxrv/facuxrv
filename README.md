@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Facundo Kisielus
 
 🎓 Computer Science student at University of Buenos Aires | 💻 Software Engineer with experience in Full-Stack Web Development & AI 
 
@@ -13,7 +12,7 @@ I'm passionate about technology, programming, and building solutions that make a
 Currently focused on:
 
 - 🔨 Web development (MERN Stack, Django, Next.js, TypeScript, SQL)
-- 🤖 Artificial Intelligence (AI Agents, Machine Learning, NLP)
+- 🤖 Artificial Intelligence (AI Agents, AI Integration, Machine Learning, NLP)
 
 ---
 
@@ -41,17 +40,13 @@ Currently focused on:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 
 
----
-
-## 📫 Contact
-
-- ✉️ facundokisielus@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/facundo-kisielus-39819a228/)  
 
 ---
+
 
 ⭐ Thanks for visiting my profile! I'm always open to collaborating or learning something new.
 
